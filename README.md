@@ -1,4 +1,4 @@
-### Hi loser 👋
+### Hi Loser 👋
 
 Whats up?
 <!--
