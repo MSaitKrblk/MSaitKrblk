@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MSaitKrblk)
-
+![](https://komarev.com/ghpvc/?username=MSaitKrblk&color=brightgreen&style=flat-square)
 ### Hi Loser 👋
 
 Whats up?
