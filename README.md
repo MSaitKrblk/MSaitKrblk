@@ -1,20 +1,19 @@
-![](https://komarev.com/ghpvc/?username=MSaitKrblk&color=brightgreen&style=flat-square)
-# Hi 👋
+<div align="center">
 
-Whats up?
+# Hi, I'm MSaitKrblk 👋
 
-![snake svg](https://github.com/MSaitKrblk/MSaitKrblk/blob/output/github-contribution-grid-snake.svg)
-<!--
-**MSaitKrblk/MSaitKrblk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+[Repositories](https://github.com/MSaitKrblk?tab=repositories) · [Stars](https://github.com/MSaitKrblk?tab=stars)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=MSaitKrblk&label=Profile%20views&color=brightgreen&style=flat-square)
+
+</div>
+
+## Contribution snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSaitKrblk/MSaitKrblk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSaitKrblk/MSaitKrblk/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/MSaitKrblk/MSaitKrblk/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
